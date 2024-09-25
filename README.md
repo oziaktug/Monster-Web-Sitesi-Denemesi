@@ -1,1 +1,1 @@
-# Monster-Web-Sitesi-Denemesi
+# Kendimi geliştirmek üzere başladığım bu yolda ufak bir çalışmam.
